@@ -47,25 +47,11 @@
     <ClCompile Include="GeneratedFiles\Release\moc_neighbourhoodwatch.cpp">
       <Filter>Generated Files\Release</Filter>
     </ClCompile>
-    <ClCompile Include="GeneratedFiles\qrc_neighbourhoodwatch.cpp">
-      <Filter>Generated Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="neighbourhoodwatch.h">
       <Filter>Header Files</Filter>
     </CustomBuild>
-    <CustomBuild Include="neighbourhoodwatch.ui">
-      <Filter>Form Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="neighbourhoodwatch.qrc">
-      <Filter>Resource Files</Filter>
-    </CustomBuild>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="GeneratedFiles\ui_neighbourhoodwatch.h">
-      <Filter>Generated Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="SAGameDev2013.rc" />
